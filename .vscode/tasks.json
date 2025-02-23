@@ -3,7 +3,11 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe build active file",
+<<<<<<< HEAD
             "command": "C:\\w64devkit\\bin\\g++.exe",
+=======
+            "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+>>>>>>> 3b15f177e4684572801f057b042ce153290117ba
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
